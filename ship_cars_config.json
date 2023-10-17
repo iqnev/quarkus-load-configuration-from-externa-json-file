@@ -1,0 +1,5 @@
+{
+  "simple.service": "pusher",
+  "simple.source": "source",
+  "simple.destination": "destination"
+}

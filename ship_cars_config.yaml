@@ -1,0 +1,16 @@
+{
+  "configuration": {
+    "environments": [
+      {
+        "source": "github",
+        "service": "pusher",
+        "destination": "dev"
+      },
+      {
+        "source": "gitlab",
+        "service": "syncer",
+        "destination": "prod"
+      }
+    ]
+  }
+}
